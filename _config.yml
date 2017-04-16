@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Predictions: The History of the Future (Held Accountable)"
+title: "Predictions: The History of the Future"
 description: > # this means to ignore newlines until "email:"
    A Contrafabulists Production
 
