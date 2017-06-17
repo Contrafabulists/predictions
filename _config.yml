@@ -25,10 +25,10 @@ paginate:	5
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title 
 
-url: "http://contrafabulists.com" # the base hostname & protocol for your site
+url: "http://predictions.contrafabulists.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle:
+twitter_handle: '@contrafabulists' 
 
 # social icons and sharing options
 social:
